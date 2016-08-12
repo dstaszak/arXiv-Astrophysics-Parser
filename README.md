@@ -18,8 +18,8 @@ I set this to run as a cronjob on the local linux server and pointed the cronjob
 execute a shell file that set the environmental variables and ran python.  
 For example, put this file in your directory and point the cronjob to it:
 
-#!/bin/tsch
-source [home]/[Environmental Variables File]
-cd [Directory]
-python parseArchiveAndSendEmail.py
+    [Set the shell you are using]
+    source [home]/[Environmental Variables File]
+    cd [Directory]
+    python parseArchiveAndSendEmail.py
 
