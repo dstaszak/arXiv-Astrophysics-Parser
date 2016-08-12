@@ -1,0 +1,320 @@
+----- 20 Papers Related to VHE/HE Gamma-Ray Science 2015-08-27 ----- 
+
+http://arxiv.org/abs/1508.06276
+* Title:  First Observation of Time Variation in the Solar-Disk Gamma-Ray
+        Flux  with Fermi
+* Authors: Kenny C. Y. Ng, John F. Beacom, Annika H. G. Peter, Carsten Rott
+* Comments: 13 pages, 6 figures, comments are welcome
+* Abstract:
+        "The solar disk is a bright gamma-ray source. Surprisingly, its
+        flux is about one order of magnitude higher than predicted. As a
+        first step toward understanding the physical origin of this
+        discrepancy, we perform a new analysis in 1-100 GeV using 6 years
+        of public Fermi-LAT data. Compared to the ..."
+
+--------
+
+http://arxiv.org/abs/1508.06279
+* Title:  VHE $γ$-ray/X-ray correlation studies in Mrk 421 down to the
+        quiescent state
+* Authors: Barbara Patricelli, Magdalena González, Nissim Fraija
+* Comments: Comments: 6 pages, 1 Figure, to appear in Proc. of the 34th
+        International Cosmic Ray Conference (ICRC2015), The Hague
+        (Netherlands), July 30-August 6 2015
+* Abstract:
+        "The blazar Mrk 421 is one of the closest, brightest and fastest
+        varying source in the extragalactic X-ray/TeV sky. In the last
+        years, many multi-wavelength campaigns have been carried out to
+        study the correlation between the very high energy (VHE)
+        $\gamma$-ray and X-ray fluxes of this source and, although the ..."
+
+--------
+
+http://arxiv.org/abs/1508.06296
+* Title:  TARGET: toward a solution for the readout electronics of the
+        Cherenkov  Telescope Array
+* Authors: L. Tibaldo, J. A. Vandenbroucke, A. M. Albert, S. Funk, T.
+        Kawashima, M. Kraus, A. Okumura, L. Sapozhnikov, H. Tajima, G. S.
+        Varner, T. Wu, A. Zink, CTA consortium
+* Comments: 8 pages, 3 figures. In Proceedings of the 34th International
+        Cosmic Ray Conference (ICRC2015), The Hague, The Netherlands. All
+        CTA contributions at
+* Abstract:
+        "TARGET is an application specific integrated circuit (ASIC)
+        designed to read out signals recorded by the photosensors in
+        cameras of very-high-energy gamma-ray telescopes exploiting the
+        imaging of Cherenkov radiation from atmospheric showers. TARGET
+        capabilities include sampling at a high rate (typically 1
+        GSample/s), digitization, and triggering on the sum of ..."
+
+--------
+
+http://arxiv.org/abs/1508.06311
+* Title:  VERITAS Observations of The Galactic Center Ridge
+* Authors: Andrew W. Smith, VERITAS Collaboration
+* Comments: To appear in the proceedings of The 34th International Cosmic
+        Ray Conference (ICRC 2015), The Hague, Netherlands; 8 pages, 5
+        figures
+* Abstract:
+        "The Galactic Center Ridge has been observed extensively in the
+        past by both GeV and TeV instruments revealing a wealth of
+        structure, including both a diffuse component, the point sources
+        G0.9+0.1 (a composite supernova remnant) and SgrA* (believed to be
+        associated with the super massive black hole located at the ..."
+
+--------
+
+http://arxiv.org/abs/1508.06334
+* Title:  VERITAS Discovery of Very High-Energy Gamma-Ray Emission from RGB
+        J2243+203
+* Authors: A. U. Abeysekara
+* Comments: 7 pages, 2 figures, The 34th International Cosmic Ray
+        Conference, 30 July- 6 August, 2015 The Hague, The Netherlands
+* Abstract:
+        "RGB J2243+203 is a blazar at an estimated redshift of greater than
+        0.39 that has been classified both as an intermediate-frequency-
+        peaked BL Lac object and as a high-frequency-peaked BL Lac object.
+        This source has been detected by VERITAS at a statistical
+        significance of 5.6 $\sigma$ in $\sim$4 hours between 21 ..."
+
+--------
+
+http://arxiv.org/abs/1508.06397
+* Title:  Camera calibration strategy of the SST-1M prototype of the
+        Cherenokov  Telescope Array
+* Authors: E. Prandini, M. Heller, E. Lyard, E. jr. Schioppa, A. Neronov,
+        W. Bilnik, J. Błocki, L. Bogacz, T. Bulik, F. Cadoux, A. Christov,
+        M. Curyło, D. della Volpe, M. Dyrda, Y. Favre...
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The SST-1M telescope is one of the prototypes under construction
+        proposed to be part of the future Cherenkov Telescope Array. It
+        uses a standard Davis-Cotton design for the optics and telescope
+        structure, with a dish diameter of 4 meters and a large field-of-
+        view of 9 degrees.The innovative camera design is ..."
+
+--------
+
+http://arxiv.org/abs/1508.06399
+* Title:  Violent Hard X-ray Variability of Mrk 421 Observed by NuSTAR in
+        2013  April
+* Authors: Vaidehi S. Paliya, Markus Bottcher, Chris Diltz, C. S. Stalin,
+        S. Sahayanathan, C. D. Ravikumar
+* Comments: 23 pages, 5 figures, 2 tables, to appear in the Astrophysical
+        Journal
+* Abstract:
+        "The well studied blazar Markarian 421 (Mrk 421, $z$=0.031) was the
+        subject of an intensive multi-wavelength campaign when it flared in
+        2013 April. The recorded X-ray and very high energy (VHE, E$>$100
+        GeV) $\gamma$-ray fluxes are the highest ever measured from this
+        object. At the peak of the activity, it ..."
+
+--------
+
+http://arxiv.org/abs/1508.06415
+* Title:  Performance of the Mechanical Structure of the SST-2M GCT
+        Proposed for  the Cherenkov Telescope Array
+* Authors: Jean-Laurent Dournaux, Jean-Michel Huet, Delphine Dumas, Jean-
+        Philippe Amans, Gilles Fasola, Philippe Laporte, Jean-Jacques
+        Bousquet, Hélène Sol
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The Cherenkov Telescope Array (CTA) consortium aims to create the
+        next generation Very High Energy gamma-ray observatory. It will be
+        devoted to the observation of gamma rays over a wide band of
+        energy, from 20 GeV to 300 TeV. Three different classes, Large,
+        Medium and Small Size Telescopes, are foreseen ..."
+
+--------
+
+http://arxiv.org/abs/1508.06438
+* Title:  Status of the Cherenkov Telescope Array's Large Size Telescopes
+* Authors: J. Cortina, M. Teshima, CTA Consortium
+* Comments: 8 pages, 2 figures, in Proceedings of the 34th International
+        Cosmic Ray Conference (ICRC2015), The Hague, The Netherlands. All
+        CTA contributions at
+* Abstract:
+        "The Cherenkov Telescope Array (CTA) observatory, will be deployed
+        over two sites in the two hemispheres. Both sites will be equipped
+        with four Large Size Telescopes (LSTs), which are crucial to
+        achieve the science goals of CTA in the 20-200 GeV energy range.
+        Each LST is equipped with a primary ..."
+
+--------
+
+http://arxiv.org/abs/1508.06442
+* Title:  Six years of VERITAS observations of the Crab Nebula
+* Authors: Kevin Meagher for the VERITAS Collaboration
+* Comments: 8 pages, 5 figures, To appear in Proceedings of the 34th
+        International Cosmic Ray Conference
+* Abstract:
+        "The Crab Nebula is the brightest source in the very-high-energy
+        (VHE) gamma-ray sky and one of the best studied non-thermal
+        objects. The dominant VHE emission mechanism is believed to be
+        inverse Compton scattering of low energy photons on relativistic
+        electrons. While it is unclear how the electrons in the nebula ..."
+
+--------
+
+http://arxiv.org/abs/1508.06453
+* Title:  The SST-1M camera for the Cherenkov Telescope Array
+* Authors: E.J.Schioppa, F.Cadoux, A.Christov, D.della Volpe, Y.Favre,
+        M.Heller, T.Montaruli, A.Porcelli, M.Rameez, I.Troyano Pujadas,
+        W.Bilnik, J. Blocki, L.Bogacz, T.Bulik, M.Curylo...
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The prototype camera of the single-mirror Small Size Telescopes
+        (SST-1M) proposed for the Cherenkov Telescope Array (CTA) project
+        has been designed to be very compact and to deliver high
+        performance over thirty years of operation. The camera is composed
+        of an hexagonal photo-detection plane made of custom designed large
+        area ..."
+
+--------
+
+http://arxiv.org/abs/1508.06459
+* Title:  Performance of the SST-1M telescope for the Cherenkov Telescope
+        Array  observatory
+* Authors: R. Moderski, W. Bilnik, J. Błocki, L. Bogacz, T. Bulik, F.
+        Cadoux, A. Christov, M. Chruślińska, M. Curyło, D. della Volpe,
+        M. Dyrda, Y. Favre, A. Frankowski, Ł. Grudnik, M. Grudzińska...
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The single mirror small-size telescope (SST-1M) is one of the
+        telescope projects being proposed for the Cherenkov Telescope Array
+        observatory by a sub-consortium of Polish and Swiss institutions.
+        The SST-1M prototype structure is currently being constructed at
+        the Institute of Nuclear Physics in Cracow, Poland, while the
+        camera will be ..."
+
+--------
+
+http://arxiv.org/abs/1508.06472
+* Title:  The small size telescope projects for the Cherenkov Telescope
+        Array
+* Authors: Teresa Montaruli, Giovanni Pareschi, Tim Greenshaw
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The small size telescopes (SSTs), spread over an area of several
+        square km, dominate the CTA sensitivity in the photon energy range
+        from a few TeV to over 100 TeV, enabling for the detailed
+        exploration of the very high energy gamma-ray sky. The proposed
+        telescopes are innovative designs providing a ..."
+
+--------
+
+http://arxiv.org/abs/1508.06473
+* Title:  Modern middleware for the data acquisition of the Cherenkov
+        Telescope  Array
+* Authors: Etienne Lyard, Roland Walter, Karl Kosack, Jean Jacquemier, Igor
+        Oya, Peter Wegner, Matthias Fuessling, Xin Wu, CTA Consortium
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "The data acquisition system (DAQ) of the future Cherenkov
+        Telescope Array (CTA) must be ef- ficient, modular and robust to be
+        able to cope with the very large data rate of up to 550 Gbps coming
+        from many telescopes with different characteristics. The use of
+        modern middleware, namely ZeroMQ and ..."
+
+--------
+
+http://arxiv.org/abs/1508.06500
+* Title:  Application of the spine-layer jet radiation model to outbursts
+        in the  broad-line radio galaxy 3C 120
+* Authors: Mateusz Janiak, Marek Sikora, Rafal Moderski
+* Comments: 12 pages, 8 figures, 2 tables
+* Abstract:
+        "We present a detailed Fermi/LAT data analysis for the broad-line
+        radio galaxy 3C 120. This source has recently entered into a state
+        of increased gamma-ray activity which manifested itself in two
+        major flares detected by Fermi/LAT in September 2014 and April 2015
+        with no significant flux changes reported in other ..."
+
+--------
+
+http://arxiv.org/abs/1508.06555
+* Title:  NectarCAM : a camera for the medium size telescopes of the
+        Cherenkov  Telescope Array
+* Authors: J-F. Glicenstein, O.Abril, J-A.Barrio, O.Blanch~Bigas,
+        J.Bolmont, F.Bouyjou, P.Brun, E.Chabanne, C.Champion, S.Colonges,
+        P.Corona, E.Delagnes, C.Delgado, C.Diaz Ginzov, D.Durand...
+* Comments: In Proceedings of the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. All CTA contributions at
+* Abstract:
+        "NectarCAM is a camera proposed for the medium-sized telescopes of
+        the Cherenkov Telescope Array (CTA) covering the central energy
+        range of ~100 GeV to ~30 TeV. It has a modular design and is based
+        on the NECTAr chip, at the heart of which is a GHz sampling
+        Switched Capacitor Array ..."
+
+--------
+
+http://arxiv.org/abs/1508.06592
+* Title:  Fermi Bubbles with HAWC
+* Authors: H. A. Ayala Solares, C. M. Hui, P. Hüntemeyer, HAWC
+        Collaboration
+* Comments: Presented at the 34th International Cosmic Ray Conference
+        (ICRC2015), The Hague, The Netherlands. See
+* Abstract:
+        "The Fermi Bubbles, which comprise two large and homogeneous
+        regions of spectrally hard gamma-ray emission extending up to
+        $55^{o}$ above and below the Galactic Center, were first noticed in
+        GeV gamma-ray data from the Fermi Telescope in 2010. The mechanism
+        or mechanisms which produce the observed hard spectrum are not ..."
+
+--------
+
+http://arxiv.org/abs/1508.06597
+* Title:  A Cosmic-ray Electron Spectrum with VERITAS
+* Authors: David Staszak, VERITAS Collaboration
+* Comments: 7 pages, 3 figures; To appear in the Proceedings of the 34th
+        International Cosmic Ray Conference (ICRC2015), The Hague, The
+        Netherlands
+* Abstract:
+        "Cosmic-ray electrons and positrons (CREs) at GeV-TeV energies are
+        a unique probe of our local Galactic neighbourhood. CREs lose
+        energy rapidly via inverse Compton scattering and synchrotron
+        processes while propagating in the Galaxy, effectively placing a
+        maximal propagation distance for TeV electrons of order ~1 kpc.
+        Within this window, detected ..."
+
+--------
+
+http://arxiv.org/abs/1508.06622
+* Title:  Prospects On Testing Lorentz Invariance Violation With The
+        Cherenkov  Telescope Array
+* Authors: M. K. Daniel, D. Emmanoulopoulos, M. Fairbairn, N. Otte, CTA
+        Consortium
+* Comments: 8 pages, in Proceedings of the 34th International Cosmic Ray
+        Conference (ICRC2015), The Hague, The Netherlands. All CTA
+        contributions at
+* Abstract:
+        "The assumption of Lorentz invariance is one of the founding
+        principles of modern physics and violation of that would have deep
+        consequences to our understanding of the universe. Potential
+        signatures of such a violation could range from energy dependent
+        dispersion introduced into a light curve to a change in the ..."
+
+--------
+
+http://arxiv.org/abs/1508.06625
+* Title:  The Camera Calibration Strategy of the Cherenkov Telescope Array
+* Authors: M. K. Daniel, M. Gaug, P. Majumdar, CTA Consortium
+* Comments: 8 pages, in Proceedings of the 34th International Cosmic Ray
+        Conference (ICRC2015), The Hague, The Netherlands. All CTA
+        contributions at
+* Abstract:
+        "The Cherenkov Telescope Array (CTA) will be the next generation
+        ground based observatory in very high energy gamma ray astronomy.
+        The facility will achieve a wide energy coverage, starting from a
+        threshold of a few tens of GeV up to hundreds of TeV by utilising
+        several classes of telescopes, each ..."
+
+--------
+
