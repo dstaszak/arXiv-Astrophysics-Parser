@@ -5,25 +5,28 @@ VHE/HE arxiv.org parser and mailing list code
 ## Synopsis
 
 Program parses the new astrophysics papers of the day and sends out a summary
-email to the list defined in the code (searching for key words in the title/abstract).
-This is tuned for papers of interest to VHE (Very High Energy, VHE: >100GeV) 
-and HE (High Energy, HE: >1GeV) gamma-ray astrophysics community but could be 
-easily adapted to search for other specialties/interests.
+email to a mailing list. 
+The titles and abstracts in the papers are parsed from html and the program
+searches for key words in the title/abstract.
+The keywords chosen here are tuned for papers of interest to the VHE (Very High Energy, VHE: >100GeV) 
+and HE (High Energy, HE: >1GeV) gamma-ray astrophysics community.
+This could be easily adapted to search for other specialties/interests by 
+substituting different word combinations.
 
 
 ## Installation
 
 Code was written and runs with Python 2.6-2.7, untested in other versions. 
-The sript, parseArchiveAndSendEmail.py, is the meat of the program.
-I previously simply set it to run as a cronjob on a local linux server.
+This can be run as simply as 'python parseArchiveAndSendEmail.py', however
+I suggest setting it run as a cronjob on your local machine.
 
 ## Output 
 
-Email will show up with a title such as:
+Email will show up with a timestamped subject line.
 
       VHE/HE Papers for 2016-08-27
 
-and contents formatted like so...
+Email contents are formatted to fit within the default width in most modern email clients:
 
     ----- 20 Papers Related to VHE/HE Gamma-Ray Science 2015-08-27 -----
 
