@@ -1,6 +1,7 @@
 # VHE-HE-Astrophysics-Mailing-List
 
-VHE/HE arxiv.org parser and mailing list code
+Code to find new, interesting astrophysics papers posted in the last day to arXiv.org and send a formated, summary email to a mailing list.  
+Currently targets gamma-ray papers but this can be easily retuned retuned.
 
 ## Synopsis
 
@@ -19,6 +20,7 @@ substituting different word combinations.
 Code was written and runs with Python 2.6-2.7, untested in other versions. 
 This can be run as simply as 'python parseArchiveAndSendEmail.py', however
 I suggest setting it run as a cronjob on your local machine.
+Note that you'll need to fill in listOfEmails = [] with vaild addresses.
 
 ## Output 
 
