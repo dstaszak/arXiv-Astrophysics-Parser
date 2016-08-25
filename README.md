@@ -27,9 +27,11 @@ Email will show up with a timestamped subject line.
 
       VHE/HE Papers for 2016-08-27
 
-Email contents are formatted to fit within the default width in most modern email clients:
+Email contents are formatted to fit within the default width in most modern email clients (this is a shameless plug!):
 
     ----- 20 Papers Related to VHE/HE Gamma-Ray Science 2015-08-27 -----
+
+    ...
 
     http://arxiv.org/abs/1508.06597
     * Title:  A Cosmic-ray Electron Spectrum with VERITAS
@@ -63,4 +65,5 @@ Email contents are formatted to fit within the default width in most modern emai
         dispersion introduced into a light curve to a change in the ..."
 
      --------
+
      ...
